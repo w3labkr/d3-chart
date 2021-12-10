@@ -1,0 +1,13 @@
+# D3 CHART
+
+## v1.0.0 (2019-08-12)
+initial release
+
+## v1.1.0 (2019-08-28)
+1. Fixed incorrect tooltip position.
+2. Added Legend2nd in the pie chart.
+3. Fixed error in stackbar chart when data is empty.
+4. Added initialData option pie and stackbar chart.
+
+## v1.1.1 (2019-08-30)
+1. Fixed dataset if input data is not correct
